@@ -1,40 +1,37 @@
 <!DOCTYPE HTML>
 
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>RQG Family History</title>
-    <link rel="stylesheet" href="css/style.css" />
-</head>
-
-<body>
-
-<h1>Family History</h1>
-
 <?php
 
 /*
 
-KVAR ATT GÖRA
-=============
+TO DO
+=====
 Early Family History
 Random clans
 Random homelands
 Random ancestor backgrounds
 Random own homeland
 Choices (like in Battle of Pennel Ford result 20)
-alternativa födelsedatum
+Alternative birth years
 Add Balazarings http://www.backtobalazar.com/significant-family-events/
-Optional participation
+Optional participation inyearly events
 */
 
+echo "<html>";
+echo "<head>";
+echo "    <meta charset="utf-8">";
+echo "    <title>RQG Family History</title>";
+echo "    <link rel="stylesheet" href="css/style.css" />";
+echo "</head>";
+
+echo "<body>";
+
+echo "<h1>Family History</h1>";
 
 $homeland = $_POST['homeland'];
 $grandocc = $_POST['grandocc'];
 $parentocc = $_POST['parentocc'];
 $early = $_POST['early'];
-
 
 $gpdead = 0;
 $pdead = 0;

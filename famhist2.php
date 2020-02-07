@@ -19,9 +19,9 @@ Optional participation inyearly events
 
 echo "<html>";
 echo "<head>";
-echo "    <meta charset="utf-8">";
+echo "    <meta charset=\"utf-8\">";
 echo "    <title>RQG Family History</title>";
-echo "    <link rel="stylesheet" href="css/style.css" />";
+echo "    <link rel=\"stylesheet\" href=\"css/style.css\" />";
 echo "</head>";
 
 echo "<body>";

@@ -14,7 +14,9 @@ Random own homeland
 Choices (like in Battle of Pennel Ford result 20)
 Alternative birth years
 Add Balazarings http://www.backtobalazar.com/significant-family-events/
-Optional participation inyearly events
+Optional participation in yearly events
+Option to input dice roll results
+
 */
 
 echo "<html>";
